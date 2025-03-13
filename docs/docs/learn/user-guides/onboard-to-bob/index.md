@@ -1,9 +1,8 @@
 ---
 sidebar_position: 3
 sidebar_label: Bridge to BOB
----
+brendabuena2@gmail.com
 
-# Bridge to BOB
 
 There are several ways to bridge tokens to and from BOB, depending on which network and token you're interested in moving. Here is an overview of your options.
 
